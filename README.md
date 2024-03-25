@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">
     Hi
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-    I'm Subham Dey
+    I'm Abhishek Mishra
    
 </h1>
 
@@ -34,9 +34,8 @@ You can click the Preview link to take a look at your changes.
 - Currently, I am working as a NodeJs Backend Engineer.
 - 🌍 I am from Guwahati and live in Bangalore, Karnataka.
 - ✨In my free time I create content on YouTube, I enjoy teaching, riding a bicycle and watching anime   
-- ✉️ You can contact me at [deysubham999@gmail.com](mailto:deysubham999@gmail.com)
-- My githubunwrapped 2022 [Unwrapped](https://youtu.be/WDMZ3hzPaok) consider subscribing to my channel as well😉
-- You can have a look at my work as well [click here](https://jstgrowup.github.io/subham.github.io/) 
+- ✉️ You can contact me at [deysubham999@gmail.com](abhishekranjan398@gmail.com)
+- You can have a look at my work as well [click here](https://github.com/Abhirn007) 
 <br>
 <!----------------------------------- Profile View Section ------------------------------------>
 <p align="left">
