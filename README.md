@@ -32,9 +32,9 @@ You can click the Preview link to take a look at your changes.
 </h3>
 
 - Currently, I am working as a NodeJs Backend Engineer.
-- 🌍 I am from Guwahati and live in Bangalore, Karnataka.
+- 🌍 I am from Lucknow and live in Bangalore, Karnataka.
 - ✨In my free time I create content on YouTube, I enjoy teaching, riding a bicycle and watching anime   
-- ✉️ You can contact me at [deysubham999@gmail.com](abhishekranjan398@gmail.com)
+- ✉️ You can contact me at [abhishekranjan398@gmail.com]
 - You can have a look at my work as well [click here](https://github.com/Abhirn007) 
 <br>
 <!----------------------------------- Profile View Section ------------------------------------>
