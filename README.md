@@ -93,9 +93,17 @@ You can click the Preview link to take a look at your changes.
 <br>
 <!----------------------------------- GitHub Stats Section ------------------------------------>
 
-<-------<h2><i>My GitHub Stats</i></h2>------>
 
-<p>
+<---------------------<h2><i>My GitHub Stats</i></h2>---------------------------------->
+
+
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhirn007&show_icons=true&locale=en&layout=compact" alt="Abhirn007" /></p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhirn007&show_icons=true&locale=en" alt="Abhirn007" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhirn007&" alt="Abhirn007" /></p>
+
 <!--      https://github-readme-stats.vercel.app/api/top-langs/?username={username}  -->
 <!--     <a href="https://github.com/Abhirn007"><img src="https://github.com/Abhirn007" alt="subham's GitHub stats"/></a> -->
 <!--     <a href="https://github.com/user=jstgrowup&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="subham's GitHub stats" height="180px"/></a> -->
