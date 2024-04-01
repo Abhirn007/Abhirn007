@@ -48,6 +48,8 @@ You can click the Preview link to take a look at your changes.
     </a>
 </p>
 <br>
+
+
 <!----------------------------------- Tech Stack Section ------------------------------------>
 <h2>Skills</h2>
 
@@ -77,6 +79,9 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 <!----------------------------------- Project Section ------------------------------------>
+
+
+
 <!----------------------------------- Social Media Links Section ------------------------------------>
 <h2>📩 Contact Me 👇</h2>
 <p align="left">
@@ -91,10 +96,11 @@ You can click the Preview link to take a look at your changes.
     </a>
 </p>
 <br>
+
 <!----------------------------------- GitHub Stats Section ------------------------------------>
 
 
-<---------------------<h2><i>My GitHub Stats</i></h2>---------------------------------->
+<h2><i>My GitHub Stats</i></h2>
 
 
 
