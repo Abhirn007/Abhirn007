@@ -36,9 +36,12 @@ You can click the Preview link to take a look at your changes.
 - 🌍 I am from Lucknow and live in Bangalore, Karnataka.
 - ✨In my free time I create content on YouTube, I enjoy teaching, riding a bicycle and watching anime   
 - ✉️ You can contact me at [abhishekranjan398@gmail.com]
-- You can have a look at my work as well [click here](https://github.com/Abhirn007) 
+- You can have a look at my work as well [click here](https://github.com/Abhirn007)
+- ⚡ Fun fact: The term "bug" in computer science originated in 1947 when Grace Hopper found an actual moth causing a malfunction in the Harvard Mark II computer. She famously taped the insect into the logbook, coining the term "debugging" for fixing computer glitches. Now, whenever we encounter software issues, we owe a nod to the world's first literal computer bug! 🐞
 <br>
+
 <!----------------------------------- Profile View Section ------------------------------------>
+
 <p align="left">
     <a href="https://github.com/Abhirn007">
         <img src="https://komarev.com/ghpvc/?username=jstgrowup&label=Profile%20views&color=0e75b6&style=flat" alt="jstgrowup" />
