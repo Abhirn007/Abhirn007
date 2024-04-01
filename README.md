@@ -79,13 +79,13 @@ You can click the Preview link to take a look at your changes.
 <!----------------------------------- Social Media Links Section ------------------------------------>
 <h2>📩 Contact Me 👇</h2>
 <p align="left">
-    <a href="https://www.linkedin.com/in/subham-dey4021/">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/subham-dey4021/" />
+    <a href="https://www.linkedin.com/in/abhishek-ranjan-mishra-9b23a0185/">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/abhishek-ranjan-mishra-9b23a0185/" />
     </a>
     <a href="https://www.youtube.com/channel/UCKqkhUqz3n1v-9wOGOI6nxQ">
-        <img align="center" src="https://img.shields.io/youtube/channel/views/UCKqkhUqz3n1v-9wOGOI6nxQ?style=for-the-badge&logo=youtube&logoColor=red" alt="https://www.youtube.com/channel/UCKqkhUqz3n1v-9wOGOI6nxQ" />
+        <img align="center" src="https://img.shields.io/youtube/channel/views/UCKqkhUqz3n1v-9wOGOI6nxQ?style=for-the-badge&logo=youtube&logoColor=red" alt="https://www.youtube.com/channel/UCiWVmUWBVz-685kVgLldvOw" />
     </a>
-   <a title="deysubham999@gmail.com" href="mailto:deysubham999@gmail.com">
+   <a title="abhishekranjan398@gmail.com" href="mailto:abhishekranjan398@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="deysubham999@gmail.com" />
     </a>
 </p>
