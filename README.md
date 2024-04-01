@@ -19,11 +19,12 @@ You can click the Preview link to take a look at your changes.
     Hi
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
     I'm Abhishek Mishra
-   
+</br>
+     <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;backend+developer;fullstack+developer" > 
+    </br> 
+    <img  width="100%" height="400PX" align="right" style="padding: 20;" src="https://github.com/ankitpatel-akp4/ankitpatel-akp4.github.io/blob/main/web_developer.svg" height="175px"/>
+    
 </h1>
-
-
-
 <!----------------------------------- About Section ------------------------------------>
 
 <!--<img align="right" alt="coding" width="400" src="https://www.proofhub.com/wp-content/uploads/2020/08/Web-Developer.gif">-->
