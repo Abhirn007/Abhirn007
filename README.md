@@ -1,8 +1,6 @@
 
  
- <div style="image-align:center;">
-  <img src="https://img.freepik.com/free-photo/flat-lay-workstation-with-copy-space-laptop_23-2148430867.jpg" alt="Workstation">
-</div>
+ 
 
 <!---
 Abhirn007/Abhirn007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
