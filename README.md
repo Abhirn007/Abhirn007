@@ -1,9 +1,5 @@
 
- <div class="container">
-  <img src="file:///Users/abhishekranjanmishra/Downloads/Add%20a%20subheading.png" alt="Image">
-</div>
 
- 
 
 <!---
 Abhirn007/Abhirn007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
